@@ -1,0 +1,8 @@
+﻿  LoginLogout.cpp
+C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\LoginLogout\LoginLogout.cpp(24,9): warning C4101: 'idx': unreferenced local variable
+C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\LoginLogout\LoginLogout.cpp(38,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\LoginLogout\LoginLogout.cpp(36,9): warning C4101: 'idx': unreferenced local variable
+C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\LoginLogout\LoginLogout.cpp(55,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\LoginLogout\LoginLogout.cpp(48,9): warning C4101: 'idx': unreferenced local variable
+  sqlite3.c
+  LoginLogout.vcxproj -> C:\Users\Colin\Desktop\Code\Code\CPP\Bojangling\LoginLogout\LoginLogout\x64\Debug\LoginLogout.exe
